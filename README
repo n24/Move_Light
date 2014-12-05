@@ -4,3 +4,24 @@ Softwares Required:
 	Microsoft Windows
 	OpenGL Library
 
+Instructions:
+	
+	After installing visual C++ do the following:
+	
+		(1)	Copy and paste all the header files ( .h ) and
+			library files ( .lib ) to the include directory and 
+			library directory of Visual C++ installation directory.
+
+		(2)	Copy and paste all the dll files ( .dll ) to C:/Windows/System32
+
+Creating a new project:
+	
+	File --> New --> Project --> Win32 Console Application --> Finish
+
+	In the solution explorer right click on source files and choose
+	add from existing file and choose Move_Light / movelight.cpp
+
+Run
+	F5
+
+
